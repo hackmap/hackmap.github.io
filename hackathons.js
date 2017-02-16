@@ -1,0 +1,123 @@
+[
+   {
+      "name":"Future Mobility Days Hackathon",
+      "end":1486825200000,
+      "start":1486742400000,
+      "url":"https://futuremobilitydays.de/",
+      "description":"DAS MOBILITÄTS-EVENT FÜR MACHER, GESTALTER, CODER UND VISIONÄRE!\n\nMit den Future Mobility Days wollen wir den Austausch zwischen Unternehmen, Startups, Wissenschaft, Entwicklern, sowie Vertretern aus Politik und Gesellschaft in D/A/CH fördern. Durch die Kombination verschiedener Formate werden alle Teilnehmenden dazu angeregt ihre gewohnten Bahnen und Disziplinen zu verlassen und Mobilität anders zu denken. \nDie Future Mobility Days haben die Zukunftsvision von Städten, die menschenfreundlicher, sauberer, grüner und lebendiger sind als heute. Durch die fortschreitende Digitalisierung ergeben sich neue Möglichkeiten, die wir gemeinsam erkunden wollen.",
+      "organizer":"insertEFFECT GmbH",
+      "location":"Lessingstraße 6, 90443, Nürnberg, Deutschland",
+      "lat":49.446020,
+      "lng":11.074280
+   },
+   {
+      "name":"Hackvention",
+      "end":1480863600000,
+      "start":1480669200000,
+      "url":"http://www.hackvention.com/",
+      "description":"Die HACKVENTION ist genau die richtige Veranstaltung, um sich über immersive Technologien wie Virtual Reality, Augmented Reality, Mixed Reality und 360°-Videoproduktion auszutauschen. Vom 2. bis 4. Dezember 2016 kannst du die neueste Hard- und Software in Hannover live erleben, an spannenden Themen arbeiten und Teil der Community werden. Nach der HACKVENTION ist vor der HACKVENTION. Mit unseren großen Events und neuen Veranstaltungen 2017 bieten wir dir auch in Zukunft vollen Zugang in das internationale Virtual Reality Ökosystem.",
+      "organizer":"Deutschen Messe AG",
+      "location":"Messegelände 30521, Hannover, Deutschland",
+      "lat":52.318508,
+      "lng":9.805736
+   },
+   {
+      "name":"\"Connected X-mas\" Hackathon",
+      "end":1481922000000,
+      "start":1481904000000,
+      "url":"https://www.meetup.com/de-DE/IoT-Hessen/events/235876190/",
+      "description":"Lametta vs. LEDs: Let's get together for a pre-christmas hackathon!\n\nOur rules: \n\n- use the IoT hardware and platform of your choice (RaspPi, Arduino) and bring it with you\n\n- Connect: \n\n- at least two things\n\n- or at least 1 thing with the Internet\n\n- connect at least one (electronic) component with a thing that has to do with Christmas. e.g. Rudolph the LED-nosed reindeer, Christmas glitter ball with display, MQTT over Lametta, a remote controlled biscuit box which only your partner can open (to keep off holiday pounds...)",
+      "organizer":"IoT Hessen",
+      "location":"Düsseldorfer Str. 40A, Eschborn, Deutschland",
+      "lat":50.130761,
+      "lng":8.570925
+   },
+   {
+      "name":"TV Hackday 2016",
+      "end":1478448000000,
+      "start":1478336400000,
+      "url":"http://2016.tvhackday.com/",
+      "description":"At TV Hackday, we’ll hack the future of TV. Creatives, developers, designers, concepters and TV Stations alike will work together to do remixes, apps, hacks or the next TV Set. Anything goes as long as it is a TV related project that can be done in 24 hours.",
+      "organizer":"Bertram Gugel",
+      "location":"Französische Straße 9, 10117, Berlin, Germany",
+      "lat":52.514420,
+      "lng":13.386990
+   },
+   {
+      "name":"Hackathon Stuttgart",
+      "end":1478448000000,
+      "start":1478275200000,
+      "url":"http://www.hackathon-stuttgart.de/",
+      "description":"The HACKATHON STUTTGART is a unique Hackathon exclusively located in Stuttgart (Schwabenländle). Already in it’s 5th edition IT developers, programmers, graphic and web designers and more software-fans are participating with one goal: to develop usable software within 48 hours using provided platforms and targeting a special user group. Focus is on the buzzwords Cloud, Mobile and IoT.",
+      "organizer":"logicline GmbH",
+      "location":"Naststraße 43, 70376 Stuttgart, Deutschland",
+      "lat":48.816030,
+      "lng":9.213420
+   },
+   {
+      "name":"#Hackquarter",
+      "end":1478440800000,
+      "start":1478271600000,
+      "url":"https://www.debeka-hackquarter.de/",
+      "description":"Die Debeka, einer der größten Versicherer in Deutschland mit Sitz in Koblenz, veranstaltet vom 4. bis zum 6. November 2016 ihren ersten Hackathon und erarbeitet gemeinsam mit Entwicklern die digitale Zukunft der Versicherungen. Interessant ist das Event in erster Linie für Entwickler, aber natürlich sind auch Designer und BWLer gerne eingeladen, diese zu unterstützen und Produkte zu entwickeln, die die Versicherungsbranche in Zeiten der Digitalisierung vorantreiben.",
+      "organizer":"Debeka Krankenversicherungsverein a. G.",
+      "location":"Ferdinand-Sauerbruch-Straße 18, 56073, Koblenz, Deutschland",
+      "lat":50.359570,
+      "lng":7.567330
+   },
+   {
+      "name":"IBM Hackathon Frankfurt",
+      "end":1480258800000,
+      "start":1480093200000,
+      "url":"https://www.eventbrite.de/e/meet-watson-the-platform-for-cognitive-businessibm-hackathon-frankfurt-tickets-27807524053",
+      "description":"Participate at the IBM Hackathon in Frankfurt to meet new people, engage and make new project happen. With a focus on creativity and fun, our topic \"Outthink Banking - cognitive and barrier-free financial services\" should provide you the framework for coding your next big project.\n\nIBM Watson is a technology platform that uses natural language processing and machine learning to reveal insights from large amounts of unstructured data.",
+      "organizer":"IBM Deutschland GmbH",
+      "location":"Theodor-W.-Adorno-Platz 3, Frankfurt am Main, Deutschland",
+      "lat":50.127163,
+      "lng":8.665194
+   },
+   {
+      "name":"Bothack Berlin",
+      "end":1479661200000,
+      "start":1479488400000,
+      "url":"http://bothack.berlin/",
+      "description":"Chat{bots} are on the verge of becoming the single most important interfaces, reshaping the way we communicate – welcome to the battle. Join us and 100 \"Hackers\" on our quest of \"Hacking the Future of Communication\" in a 24 hour sprint!",
+      "organizer":"Torben, Lucie und die gelbe Gefahr GmbH",
+      "location":"Paul-Lincke-Ufer 39/40, 10999, Berlin, Deutschland",
+      "lat":52.496230,
+      "lng":13.422100
+   },
+   {
+      "name":"#InsurHack 2016",
+      "end":1479646800000,
+      "start":1479488400000,
+      "url":"https://www.zurich.de/de-de/insurhack",
+      "description":"Do you have what it takes to be the next coding Superheroes?\n\nTeam up and use your creativity, skills and expertise as a developer, designer or ideator to create software prototypes using Zurich API's and IT platform to extend the state of insurance to a new level.",
+      "organizer":"Zürich Beteiligungs-Aktiengesellschaft",
+      "location":"RheinEnergieSTADION, Aachener Straße, Köln, Deutschland",
+      "lat":50.937859,
+      "lng":6.875378
+   },
+   {
+      "name":"symbioticon",
+      "end":1479308400000,
+      "start":1479128400000,
+      "url":"https://symbioticon.de/",
+      "description":"Digital, mobile and user centered – banking is undergoing fundamental change. User centricity and a close relationship to our customers are traditionally at the core of the DNA of the Savings Banks Finance Group.\nWe believe that a symbiosis of innovation and tradition is the right path to take banking to the next level. Our hackathon connects developers, start-ups, hackers and creative minds to meet current challenges und to develop outstanding solutions with great user experience.",
+      "organizer":"Star Finanz-Software Entwicklung und Vertriebs GmbH",
+      "location":"Messe Frankfurt, Frankfurt am Main, Deutschland",
+      "lat":50.110047,
+      "lng":8.648375
+   },
+   {
+      "name":"SWR Codefest 2016",
+      "end":1479052800000,
+      "start":1478883600000,
+      "url":"http://codefest.swr.de/",
+      "description":"Digitale Tools. Mobile first. Öffentlich-rechtlicher Rundfunk. Livestream. Augmented Reality. Gamification. Social Media. Wie gestaltest du die Medienwelt von morgen? Der SWR lädt dich ein, deine multimedialen Ideen umzusetzen.",
+      "organizer":"Südwestrundfunk",
+      "location":"SWR Funkhaus Stuttgart, Neckarstraße 230, 70190, Stuttgart, Deutschland",
+      "lat":48.793145,
+      "lng":9.204196
+   }
+]
