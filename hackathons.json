@@ -1,5 +1,16 @@
 [
    {
+      "name":"#_hackNEXT",
+      "start":1490342400,
+      "end":1490454000,
+      "url":"https://www.hacknext.de/de/",
+      "description":"Der Hackathon für die Versicherungswirtschaft\n30 Stunden, 3 Challenges, 2 geniale Tage\nLasst uns gemeinsam die Versicherungsbranche revolutionieren",
+      "organizer":"Allianz Deutschland AG / Franke und Bornberg Research GmbH",
+      "location":"Grafinger Str. 6, 81671, Nürnberg, München",
+      "lat":48.138130,
+      "lng":11.574140
+   },
+   {
       "name":"Future Mobility Days Hackathon",
       "end":1486825200000,
       "start":1486742400000,
