@@ -11,17 +11,6 @@
       "lng":11.074280
    },
    {
-      "name":"Hackvention",
-      "end":1480863600000,
-      "start":1480669200000,
-      "url":"http://www.hackvention.com/",
-      "description":"Die HACKVENTION ist genau die richtige Veranstaltung, um sich über immersive Technologien wie Virtual Reality, Augmented Reality, Mixed Reality und 360°-Videoproduktion auszutauschen. Vom 2. bis 4. Dezember 2016 kannst du die neueste Hard- und Software in Hannover live erleben, an spannenden Themen arbeiten und Teil der Community werden. Nach der HACKVENTION ist vor der HACKVENTION. Mit unseren großen Events und neuen Veranstaltungen 2017 bieten wir dir auch in Zukunft vollen Zugang in das internationale Virtual Reality Ökosystem.",
-      "organizer":"Deutschen Messe AG",
-      "location":"Messegelände 30521, Hannover, Deutschland",
-      "lat":52.318508,
-      "lng":9.805736
-   },
-   {
       "name":"\"Connected X-mas\" Hackathon",
       "end":1481922000000,
       "start":1481904000000,
@@ -33,37 +22,15 @@
       "lng":8.570925
    },
    {
-      "name":"TV Hackday 2016",
-      "end":1478448000000,
-      "start":1478336400000,
-      "url":"http://2016.tvhackday.com/",
-      "description":"At TV Hackday, we’ll hack the future of TV. Creatives, developers, designers, concepters and TV Stations alike will work together to do remixes, apps, hacks or the next TV Set. Anything goes as long as it is a TV related project that can be done in 24 hours.",
-      "organizer":"Bertram Gugel",
-      "location":"Französische Straße 9, 10117, Berlin, Germany",
-      "lat":52.514420,
-      "lng":13.386990
-   },
-   {
-      "name":"Hackathon Stuttgart",
-      "end":1478448000000,
-      "start":1478275200000,
-      "url":"http://www.hackathon-stuttgart.de/",
-      "description":"The HACKATHON STUTTGART is a unique Hackathon exclusively located in Stuttgart (Schwabenländle). Already in it’s 5th edition IT developers, programmers, graphic and web designers and more software-fans are participating with one goal: to develop usable software within 48 hours using provided platforms and targeting a special user group. Focus is on the buzzwords Cloud, Mobile and IoT.",
-      "organizer":"logicline GmbH",
-      "location":"Naststraße 43, 70376 Stuttgart, Deutschland",
-      "lat":48.816030,
-      "lng":9.213420
-   },
-   {
-      "name":"#Hackquarter",
-      "end":1478440800000,
-      "start":1478271600000,
-      "url":"https://www.debeka-hackquarter.de/",
-      "description":"Die Debeka, einer der größten Versicherer in Deutschland mit Sitz in Koblenz, veranstaltet vom 4. bis zum 6. November 2016 ihren ersten Hackathon und erarbeitet gemeinsam mit Entwicklern die digitale Zukunft der Versicherungen. Interessant ist das Event in erster Linie für Entwickler, aber natürlich sind auch Designer und BWLer gerne eingeladen, diese zu unterstützen und Produkte zu entwickeln, die die Versicherungsbranche in Zeiten der Digitalisierung vorantreiben.",
-      "organizer":"Debeka Krankenversicherungsverein a. G.",
-      "location":"Ferdinand-Sauerbruch-Straße 18, 56073, Koblenz, Deutschland",
-      "lat":50.359570,
-      "lng":7.567330
+      "name":"Hackvention",
+      "end":1480863600000,
+      "start":1480669200000,
+      "url":"http://www.hackvention.com/",
+      "description":"Die HACKVENTION ist genau die richtige Veranstaltung, um sich über immersive Technologien wie Virtual Reality, Augmented Reality, Mixed Reality und 360°-Videoproduktion auszutauschen. Vom 2. bis 4. Dezember 2016 kannst du die neueste Hard- und Software in Hannover live erleben, an spannenden Themen arbeiten und Teil der Community werden. Nach der HACKVENTION ist vor der HACKVENTION. Mit unseren großen Events und neuen Veranstaltungen 2017 bieten wir dir auch in Zukunft vollen Zugang in das internationale Virtual Reality Ökosystem.",
+      "organizer":"Deutschen Messe AG",
+      "location":"Messegelände 30521, Hannover, Deutschland",
+      "lat":52.318508,
+      "lng":9.805736
    },
    {
       "name":"IBM Hackathon Frankfurt",
@@ -119,5 +86,38 @@
       "location":"SWR Funkhaus Stuttgart, Neckarstraße 230, 70190, Stuttgart, Deutschland",
       "lat":48.793145,
       "lng":9.204196
+   },
+   {
+      "name":"TV Hackday 2016",
+      "end":1478448000000,
+      "start":1478336400000,
+      "url":"http://2016.tvhackday.com/",
+      "description":"At TV Hackday, we’ll hack the future of TV. Creatives, developers, designers, concepters and TV Stations alike will work together to do remixes, apps, hacks or the next TV Set. Anything goes as long as it is a TV related project that can be done in 24 hours.",
+      "organizer":"Bertram Gugel",
+      "location":"Französische Straße 9, 10117, Berlin, Germany",
+      "lat":52.514420,
+      "lng":13.386990
+   },
+   {
+      "name":"Hackathon Stuttgart",
+      "end":1478448000000,
+      "start":1478275200000,
+      "url":"http://www.hackathon-stuttgart.de/",
+      "description":"The HACKATHON STUTTGART is a unique Hackathon exclusively located in Stuttgart (Schwabenländle). Already in it’s 5th edition IT developers, programmers, graphic and web designers and more software-fans are participating with one goal: to develop usable software within 48 hours using provided platforms and targeting a special user group. Focus is on the buzzwords Cloud, Mobile and IoT.",
+      "organizer":"logicline GmbH",
+      "location":"Naststraße 43, 70376 Stuttgart, Deutschland",
+      "lat":48.816030,
+      "lng":9.213420
+   },
+   {
+      "name":"#Hackquarter",
+      "end":1478440800000,
+      "start":1478271600000,
+      "url":"https://www.debeka-hackquarter.de/",
+      "description":"Die Debeka, einer der größten Versicherer in Deutschland mit Sitz in Koblenz, veranstaltet vom 4. bis zum 6. November 2016 ihren ersten Hackathon und erarbeitet gemeinsam mit Entwicklern die digitale Zukunft der Versicherungen. Interessant ist das Event in erster Linie für Entwickler, aber natürlich sind auch Designer und BWLer gerne eingeladen, diese zu unterstützen und Produkte zu entwickeln, die die Versicherungsbranche in Zeiten der Digitalisierung vorantreiben.",
+      "organizer":"Debeka Krankenversicherungsverein a. G.",
+      "location":"Ferdinand-Sauerbruch-Straße 18, 56073, Koblenz, Deutschland",
+      "lat":50.359570,
+      "lng":7.567330
    }
 ]
